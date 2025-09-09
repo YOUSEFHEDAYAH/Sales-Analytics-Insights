@@ -10,7 +10,10 @@ This project provides a comprehensive analysis of sales transaction data for a m
 - **$5.14M** total revenue
 - **1,000** unique customers
 - **11** product categories
-- **4** sales channels
+- **4** sales channels  
+
+![Key Statistics](newplot.png)
+
 ## 🔍 **Key Findings**
 
 ### **🌍 Geographic Performance**
